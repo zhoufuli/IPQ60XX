@@ -16,7 +16,7 @@
 permissions:
   contents: write
 
-name: 开始编译openclash版本
+name: 开始编译ipq6000版本
 
 on:
   repository_dispatch:
